@@ -21,7 +21,7 @@
     "pre_init_hook": None,
     "post_init_hook": None,
     "auto_install": False,
-    "installable": False,
+    "installable": True,
     "demo_title": "POS Mobile UI",
     "demo_addons": ["pos_mobile_restaurant"],
     "demo_addons_hidden": [],
