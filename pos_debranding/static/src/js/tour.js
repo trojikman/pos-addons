@@ -24,7 +24,7 @@ odoo.define("pos_debranding.tour", function(require) {
             position: "bottom",
         },
         {
-            trigger: ".o_main_content:has(.loader:hidden)",
+            trigger: ".pos:has(.loader:hidden)",
             content: "waiting for loading to finish",
             timeout: 20000,
             run: function() {
