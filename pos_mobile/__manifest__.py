@@ -1,3 +1,4 @@
+# License OPL-1 (https://www.odoo.com/documentation/user/13.0/legal/licenses/licenses.html#odoo-apps) for derivative work.
 {
     "name": """POS Mobile UI""",
     "summary": """Your Point of Sale in the Mobile Version""",
@@ -9,7 +10,7 @@
     "author": "IT-Projects LLC, Dinar Gabbasov",
     "support": "pos@it-projects.info",
     "website": "https://apps.odoo.com/apps/modules/13.0/pos_mobile/",
-    "license": "Other OSI approved licence",  # MIT
+    "license": "OPL-1",
     "price": 300.00,
     "currency": "EUR",
     "depends": ["point_of_sale", "pos_debranding"],
