@@ -11,7 +11,7 @@
     "support": "pos@it-projects.info",
     "website": "https://apps.odoo.com/apps/modules/13.0/pos_mobile/",
     "license": "OPL-1",
-    "price": 300.00,
+    "price": 270.00,
     "currency": "EUR",
     "depends": ["point_of_sale", "pos_debranding"],
     "external_dependencies": {"python": [], "bin": []},
